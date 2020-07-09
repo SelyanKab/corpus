@@ -1,0 +1,449 @@
+Amzun ḍelmeɣ-k!
+Amzun ḍelmeɣ-kem!
+Amzun ḍelmeɣ-ken!
+Amzun ḍelmeɣ-kent!
+Amzun ḍelmeɣ-ten!
+Amzun ḍelmeɣ-tent!
+Amzun ḍelmeɣ-t!
+Amzun ḍelmeɣ-tt!
+Amzun ḍelmen-k!
+Amzun ḍelmen-kem!
+Amzun ḍelmen-t!
+Amzun ḍelmen-tt!
+Amzun ḍelmen-ken!
+Amzun ḍelmen-kent!
+Amzun ḍelmen-ten!
+Amzun ḍelmen-tent!
+Amzun ḍelmen-aɣ!
+Amzun ḍelment-k!
+Amzun ḍelment-kem!
+Amzun ḍelment-t!
+Amzun ḍelment-tt!
+Amzun ḍelment-ken!
+Amzun ḍelment-kent!
+Amzun ḍelment-ten!
+Amzun ḍelment-tent!
+Amzun ḍelment-aɣ!
+Amzun iḍlem-ik!
+Amzun iḍlem-ikem!
+Amzun iḍlem-it!
+Amzun iḍlem-itt!
+Amzun iḍlem-iken!
+Amzun iḍlem-ikent!
+Amzun iḍlem-iten!
+Amzun iḍlem-itent!
+Amzun iḍlem-aɣ!
+Amzun teḍlem-ik!
+Amzun teḍlem-ikem!
+Amzun teḍlem-it!
+Amzun teḍlem-itt!
+Amzun teḍlem-aɣ!
+Amzun teḍlem-iken!
+Amzun teḍlem-ikent!
+Amzun teḍlem-iten!
+Amzun teḍlem-itent!
+Amzun neḍlem-ik!
+Amzun neḍlem-ikem!
+Amzun neḍlem-it!
+Amzun neḍlem-itt!
+Amzun neḍlem-iken!
+Amzun neḍlem-ikent!
+Amzun neḍlem-iten!
+Amzun neḍlem-itent!
+Amzun teḍlemeḍ-iyi!
+Amzun teḍlemeḍ-t!
+Amzun teḍlemeḍ-tt!
+Amzun teḍlemeḍ-aɣ!
+Amzun teḍlemeḍ-ten!
+Amzun teḍlemeḍ-tent!
+Amzun teḍlemem-iyi!
+Amzun teḍlemem-t!
+Amzun teḍlemem-tt!
+Amzun teḍlemem-aɣ!
+Amzun teḍlemem-ten!
+Amzun teḍlemem-tent!
+Anta i tella Taninna?
+Anda i yella Yuba?
+Anda i llan yeqbayliyen?
+Anda i d-zga tamurt taqbaylit?
+Anda i sselmaden taqbaylit?
+Anda i nezmer ad nelmed taqbaylit?
+Anda i zemren ad lemden taqbaylit?
+Anda i zemrent ad lemdent taqbaylit?
+Anda i yezmer ad yelmed taqbaylit?
+Ɛni txuṣ teqbaylit-iw?
+Ɛni txuṣ teqbaylit-im?
+Ɛni txuṣ teqbaylit-ik?
+Ɛni txuṣ teqbaylit-nwen?
+Ɛni txuṣ teqbaylit-nkent?
+Ɛni txuṣ teqbaylit-nsen?
+Ɛni txuṣ teqbaylit-nsent?
+Anda i yeqqim Layas?
+Anda i iṛuḥ Aɣilas?
+Anda i ṛuḥen irkulli?
+S wacu i yettmag uɣṛum-agi?
+S wacu i d-yemmug uɣṛum-a?
+S wacu i yettmug ugaṭu-ya?
+Uɣeɣ tanumi yid-s.
+Uɣeɣ tanumi yid-k.
+Uɣeɣ tanumi yid-m.
+Uɣeɣ tanumi yid-wen.
+Uɣeɣ tanumi yid-kent.
+Uɣen tanumi yid-s.
+Uɣen tanumi yid-i.
+Uɣen tanumi yid-m.
+Uɣen tanumi yid-k.
+Uɣen tanumi yid-wen.
+Uɣen tanumi yid-kent.
+Uɣen tanumi yid-sen.
+Uɣen tanumi yid-sent.
+Uɣen tanumi yid-neɣ.
+Uɣent tanumi yid-s.
+Uɣent tanumi yid-i.
+Uɣent tanumi yid-k.
+Uɣent tanumi yid-m.
+Uɣent tanumi yid-wen.
+Uɣent tanumi yid-kent.
+Uɣent tanumi yid-sen.
+Uɣent tanumi yid-sent.
+Uɣent tanumi yid-neɣ.
+Uɣent tanumi yid-s.
+Tuɣem tanumi yid-i.
+Tuɣem tanumi yid-s.
+Tuɣem tanumi yid-sen.
+Tuɣem tanumi yid-sent.
+Tuɣem tanumi yid-neɣ.
+Tuɣemt tanumi yid-i.
+Tuɣemt tanumi yid-s.
+Tuɣemt tanumi yid-sen.
+Tuɣemt tanumi yid-sent.
+Tuɣemt tanumi yid-neɣ.
+Yuɣ tanumi yid-i.
+Yuɣ tanumi yid-k.
+Yuɣ tanumi yid-m.
+Yuɣ tanumi yid-s.
+Yuɣ tanumi yid-neɣ.
+Yuɣ tanumi yid-nteɣ.
+Yuɣ tanumi yid-sen.
+Yuɣ tanumi yid-sent.
+Tuɣ tanumi yid-i.
+Tuɣ tanumi yid-k.
+Tuɣ tanumi yid-m.
+Tuɣ tanumi yid-s.
+Tuɣ tanumi yid-neɣ.
+Tuɣ tanumi yid-wen.
+Tuɣ tanumi yid-kent.
+Tuɣ tanumi yid-sen.
+Tuɣ tanumi yid-sent.
+Tuɣ tanumi yid-nteɣ.
+Tuɣeḍ tanumi yid-i.
+Tuɣeḍ tanumi yid-s.
+Tuɣeḍ tanumi yid-neɣ.
+Tuɣeḍ tanumi yid-nteɣ.
+Tuɣeḍ tanumi yid-sen.
+Tuɣeḍ tanumi yid-sent.
+Nuɣ tanumi yid-k.
+Nuɣ tanumi yid-m.
+Nuɣ tanumi yid-s.
+Nuɣ tanumi yid-wen.
+Nuɣ tanumi yid-kent.
+Nuɣ tanumi yid-sen.
+Nuɣ tanumi yid-sent.
+Ussan-d meɛna ur d-glin ara yes-s.
+Ussan-d d acu kan ur d-glin ara yes-sen.
+Ussan-d maca ur d-glin ara yes-sent.
+D acu i d-nniḍ?
+D acu i d-nnam?
+D acu i d-nnamt?
+D acu i d-nnan?
+D acu i d-nnant?
+D acu i d-yenna?
+D acu i d-tenna?
+D acu i d-nniɣ?
+Aten-aya!
+Aql-iyi-n!
+Aqli da!
+Aqli-n din.
+Tciwṛeḍ-iyi?
+Tciwṛeḍ-t?
+Tciwṛeḍ-tt?
+Tciwṛeḍ-ten?
+Tciwṛeḍ-tent?
+Tciwṛeḍ-aɣ?
+Ččan-t akk.
+Ččan-tt akk.
+Ččan-ten akk.
+Ččan-tent akk.
+Ǧǧan-ak-d kra?
+Ǧǧan-am-d kra?
+Ǧǧan-as-d kra?
+Ǧǧan-awen-d kra?
+Ǧǧan-akent-d kra?
+Ǧǧan-asen-d kra?
+Ǧǧan-asent-d kra?
+Ǧǧan-aɣ-d kra?
+Quman-k?
+Quman-kem?
+Quman-t?
+Quman-tt?
+Quman-ken?
+Quman-kent?
+Quman-ten?
+Quman-tent?
+Quman-aɣ?
+Zgan-ak-d?
+Zgan-am-d?
+Zgan-as-d?
+Zgan-awen-d?
+Zgan-akent-d?
+Zgan-asen-d?
+Zgan-asent-d?
+Zgan-aɣ-d?
+Quman-k akk?
+Quman-kem akk?
+Quman-wen akk?
+Quman-kent akk?
+Quman-sen akk?
+Quman-sent akk?
+Iqecc lbexsis.
+Iḍlem-it.
+Iḍlem-itt.
+Iḍlem-iyi.
+Iḍlem-aɣ.
+Iḍlem-iken.
+Iḍlem-ikent.
+Iḍlem-iten.
+Iḍlem-itent.
+Iḥuza-t.
+Iḥuza-tt.
+Iḥuza-k.
+Iḥuza-kem.
+Iḥuza-yaɣ.
+Iḥuza-ken.
+Iḥuza-kent.
+Iḥuza-ten.
+Iḥuza-tent.
+Akken i d-dduklen.
+Akken i d-dduklent.
+Akken i d-neddukel.
+Ifen-t akka.
+S waya i k-ifen.
+S waya i kem-ifen.
+S waya i ken-ifen.
+S waya i kent-ifen.
+S waya i t-ifen.
+S waya i ten-ifen.
+S waya i tent-ifen.
+S waya i tt-ifen.
+Akken i ddukkulen.
+Akken i ddukkulent.
+Akken i neddukkul.
+Tebɛen zzhu.
+Zhan xeṛṣum?
+Ma ur nezha ara d acu ad nexdem ihi?
+Iwacu zzhu?
+Yerḥa-yi winna!
+Terḥa-yi tinna!
+Rḥan-iyi widak!
+Rḥant-iyi tidak!
+Ur yemɛin ara.
+Ur temɛin ara.
+Ur mɛinen ara.
+Ur mɛinent ara.
+D wa i d ssebba.
+Ṛuḥen akk mazal netta.
+Ṛuḥen akk mazal nettat.
+Ṛuḥen akk mazal nekni.
+Ṛuḥen akk mazal nekkenti.
+Ṛuḥen akk mazal nutenti.
+Yufa-ten yid-k.
+Yufa-ten yid-m.
+Yufa-ten yid-s.
+Yufa-ten yid-neɣ.
+Yufa-ten yid-wen.
+Yufa-ten yid-kent.
+Yufa-ten yid-sen.
+Yufa-ten yid-sent.
+Yufa-tent yid-k.
+Yufa-tent yid-m.
+Yufa-tent yid-s.
+Yufa-tent yid-neɣ.
+Yufa-tent yid-wen.
+Yufa-tent yid-kent.
+Yufa-tent yid-sen.
+Yufa-tent yid-sent.
+Yufa-k yid-i.
+Yufa-k yid-s.
+Yufa-k yid-neɣ.
+Yufa-k yid-sen.
+Yufa-k yid-sent.
+Yufa-kem yid-i.
+Yufa-kem yid-s.
+Yufa-kem yid-neɣ.
+Yufa-kem yid-sen.
+Yufa-kem yid-sent.
+Yufa-kem yid-nteɣ.
+Yufa-ken yid-i.
+Yufa-ken yid-s.
+Yufa-ken yid-neɣ.
+Yufa-ken yid-sen.
+Yufa-ken yid-sent.
+Yufa-kent yid-i.
+Yufa-kent yid-s.
+Yufa-kent yid-neɣ.
+Yufa-kent yid-nteɣ.
+Yufa-kent yid-sen.
+Yufa-kent yid-sent.
+Nwan ad ṛuḥen yuɣal ndemmen.
+Nwant ad ṛuḥen yuɣal ndemment.
+Mazal ussan.
+Yekfa-yas ayla-s.
+Yekfa-yasen ayla-nsen.
+Yekfa-yasent ayla-nsent.
+Yekfa-yaɣ ayla-nneɣ.
+Yefka-yas ayla-s.
+Yefka-yi ayla-w.
+Yefka-yam ayla-m.
+Yefka-yak ayla-k.
+Yefka-yasen ayla-nsen.
+Yefka-yasent ayla-nsent.
+Sḥasfen seg wayen yeḍṛan.
+Sḥasfent seg wayen yeḍṛan.
+Nesḥassef seg wayen yeḍṛan.
+Yeǧǧa-yas amkan-is.
+Yeǧǧa-yasen amkan-is.
+Yeǧǧa-yasent amkan-is.
+Teǧǧa-yas amkan-is.
+Teǧǧa-yasen amkan-is.
+Teǧǧa-yasent amkan-is.
+D ageffur.
+D asigna.
+Yeɣɣemɣem lḥal.
+D tafsut.
+D tagara n tegrest.
+Yuli wass.
+Yeɣli wass.
+Bḍan-t d azgen.
+Bḍan-tt d azgen.
+Ddan-d akk yid-s.
+Ddan-d akk yid-i.
+Ddan-d akk yid-k.
+Ddan-d akk yid-m.
+Ddan-d akk yid-neɣ.
+Ddan-d akk yid-nteɣ.
+Ddan-d akk yid-sen.
+Ddan-d akk yid-sent.
+Ddan-d akk yid-wen.
+Ddan-d akk yid-kent.
+Seddan-t-id.
+Seddan-tt-id deg temsalt-nni.
+Seddan-ten-id.
+Seddan-tent-id.
+Seddant-t-id.
+Seddant-iyi-id.
+Seddant-kem-id.
+Seddant-k-id.
+Mcedhan aṭas.
+Ctaqen-k.
+Ctaqen-kem.
+Ctaqen-iyi.
+Ctaqen-ken.
+Ctaqen-kent.
+Ctaqen-ten.
+Ctaqen-tent.
+Iwacu ur d-yedda ara?
+Iwacu ur d-tedda ara?
+Iwacu ur d-ddin ara?
+Iwacu ur d-ddint ara?
+Ɣef acu akken?
+Myujjamen mliḥ.
+Melmi i d-nnulfan?
+Melmi i d-nnulfant?
+Melmi i d-yennulfa?
+Melmi i d-tennulfa?
+Wagi d amaynut.
+Tagi d tamaynutt.
+Myufan.
+Msufan.
+Ur t-ḥemmlen ara akk.
+Ur tt-ḥemmlen ara akk.
+Ur iyi-ḥemmlen ara akk.
+Ur k-ḥemmlen ara akk.
+Ur kem-ḥemmlen ara akk.
+Ur ten-ḥemmlen ara akk.
+Ur tent-ḥemmlen ara akk.
+Ur ɣ-ḥemmlen ara akk.
+Ur t-ḥemmlen ara?
+Kamal Mesɛudi d acennay aqbayli.
+Lɛenqa d acennay aqbayli.
+Ɛmeṛ At Zzay yecna s teqbaylit.
+Daḥman Aḥeṛṛaci iḥemmel taqbaylit.
+Yuyes seg iḍelli.
+Seg asmi i t-iwala ixaq.
+Seg asmi i tt-iwala ixaq.
+Seg asmi i ten-iwala ixaq.
+Seg asmi i tent-iwala ixaq.
+Seg asmi i yi-iwala ixaq.
+Seg asmi i k-iwala ixaq.
+Seg asmi i kem-iwala ixaq.
+Seg asmi i ɣ-iwala ixaq.
+Seg asmi i ken-iwala ixaq.
+Seg asmi i kent-iwala ixaq.
+Tettḥessiseḍ i tezlatin n Ḥasan Aḥres?
+D acu i tenniḍ deg Zeddek Lmulud?
+D acu i tennam deg Farid Ferragi?
+La tetteṭṭeḍ aḍad-is.
+Teɛya tura akka.
+Yeɛya tura.
+Tura yeɛya.
+Iɣil i netta.
+Tɣil i nettat.
+Ɣilen i nutni.
+Ɣilent i nutenti.
+Nɣil i nekni.
+Nɣil i kenwi.
+Nɣil i kennemti.
+Nɣil i nekkenti.
+Yeǧǧa-t deg tlemmast n webrid.
+Teǧǧa-t deg uzgen n webrid.
+Tuɣal tettagad-itt.
+Tuɣal tettagad-it.
+Tuɣal tettagad-iten.
+Tuɣal tettagad-itent.
+Tuɣal tettagad-aɣ.
+Tuɣal tettagad-iken.
+Tuɣal tettagad-ikent.
+Tuɣal tettagad-iyi.
+Tuɣal tettagad-ik.
+Tuɣal tettagad-ikem.
+Yekkukra ad iqelleb.
+Yekkukra ad inadi fell-as.
+Tekkukra ad tqelleb fell-i.
+Yesbedd tilisa.
+Iḥudd-as tilisa.
+Yesteqsa-t ɣef webrid.
+Yesteqsa-tt ɣef webrid.
+Yesteqsa-ten ɣef webrid.
+Yesteqsa-tent ɣef webrid.
+Yesteqsa-yi ɣef webrid.
+Yesteqsa-ken ɣef webrid.
+Yesteqsa-kent ɣef webrid.
+Yesteqsa-yaɣ ɣef webrid.
+Yemla-yas-t-id.
+Yemmel-as amek ad yedu.
+Yessen ziɣ ad yesseww.
+Yewwi-d ziɣ iman-is!
+Sderɣlen-t.
+Sderɣlen-tt.
+A bu ddɣel!
+Ay amusam!
+Ay amcum ziɣ tzewṛeḍ!
+Anda akka ad tṛuḥeḍ?
+Sfeḍ amkan-nni.
+Sewjed-it.
+Af-it-id.
+Brez cwiṭ lqecc-ik.
+N wumi leḥtater-agi?
+Ttḥessis i baba-k.
+Aɣ awal i yemma-k.
+Txeddem kan tixessarin teqqar mazal.
