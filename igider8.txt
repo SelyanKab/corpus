@@ -1,0 +1,416 @@
+Nnuda ɣef ẓẓawṛa-s.
+Nnuda ɣef ẓẓawṛa-k.
+Nnuda ɣef ẓẓawṛa-m.
+Nnuda ɣef ẓẓawṛa.
+Nnuda ɣef ẓẓawṛa-nwen.
+Nnuda ɣef ẓẓawṛa-nkent.
+Nnuda ɣef ẓẓawṛa-nsen.
+Nnuda ɣef ẓẓawṛa-nsent.
+Nnuda ɣef ẓẓawṛa-nneɣ.
+Nnuda ɣef ẓẓawṛa-nteɣ.
+Nnuda ɣef ddwa-s.
+Nnuda ɣef ddwa-k.
+Nnuda ɣef ddwa-m.
+Nnuda ɣef ddwa.
+Nnuda ɣef ddwa-nwen.
+Nnuda ɣef ddwa-nkent.
+Nnuda ɣef ddwa-nsen.
+Nnuda ɣef ddwa-nsent.
+Nnuda ɣef ddwa-nneɣ.
+Nnuda ɣef ddwa-nteɣ.
+Nnuda ɣef tijɣelt-is.
+Nnuda ɣef tijɣelt-ik.
+Nnuda ɣef tijɣelt-im.
+Nnuda ɣef tijɣelt.
+Nnuda ɣef tijɣelt-nwen.
+Nnuda ɣef tijɣelt-ikent.
+Nnuda ɣef tijɣelt-isen.
+Nnuda ɣef tijɣelt-isent.
+Nnuda ɣef tijɣelt-nneɣ.
+Nnuda ɣef tijɣelt-nteɣ.
+Nnuda ɣef ubeqṛaǧ-ines.
+Nnuda ɣef ubeqṛaǧ-inek.
+Nnuda ɣef ubeqṛaǧ-inem.
+Nnuda ɣef ubeqṛaǧ.
+Nnuda ɣef ubeqṛaǧ-nwen.
+Nnuda ɣef ubeqṛaǧ-nkent.
+Nnuda ɣef ubeqṛaǧ-nsen.
+Nnuda ɣef ubeqṛaǧ-nsent.
+Nnuda ɣef ubeqṛaǧ-nneɣ.
+Nnuda ɣef ubeqṛaǧ-nteɣ.
+Nnuda ɣef taṛbut-ines.
+Nnuda ɣef taṛbut-inek.
+Nnuda ɣef taṛbut-inem.
+Nnuda ɣef taṛbut-inu.
+Nnuda ɣef taṛbut-nwen.
+Nnuda ɣef taṛbut-nkent.
+Nnuda ɣef taṛbut-nsen.
+Nnuda ɣef taṛbut-nsent.
+Nnuda ɣef taṛbut-nneɣ.
+Nnuda ɣef taṛbuyt-nteɣ.
+Nnuda ɣef umundol-is.
+Nnuda ɣef umundol-ik.
+Nnuda ɣef umundol-im.
+Nnuda ɣef umundol-iw.
+Nnuda ɣef umundol-nwen.
+Nnuda ɣef umundol-nkent.
+Nnuda ɣef umundol-nsen.
+Nnuda ɣef umundol-nsent.
+Nnuda ɣef umundol-nneɣ.
+Nnuda ɣef umundol-nteɣ.
+Nnuda ɣef tagiṭaṛt-is.
+Nnuda ɣef tagiṭaṛt-ik.
+Nnuda ɣef tagiṭaṛt-im.
+Nnuda ɣef tagiṭaṛt-iw.
+Nnuda ɣef tagiṭaṛt-nwen.
+Nnuda ɣef tagiṭaṛt-nkent.
+Nnuda ɣef tagiṭaṛt-nsen.
+Nnuda ɣef tagiṭaṛt-nsent.
+Nnuda ɣef tagiṭaṛt-nneɣ.
+Nnuda ɣef tagiṭaṛt-nteɣ.
+Nnuda ɣef talaba-ines.
+Nnuda ɣef talaba-inek.
+Nnuda ɣef talaba-inem.
+Nnuda ɣef talaba-inu.
+Nnuda ɣef talaba-nwen.
+Nnuda ɣef talaba-nkent.
+Nnuda ɣef talaba-nsen.
+Nnuda ɣef talaba-nsent.
+Nnuda ɣef talaba-nneɣ.
+Nnuda ɣef talaba-nteɣ.
+Nnuda ɣef tabessekliḍt-is.
+Nnuda ɣef tabessekliḍt-ik.
+Nnuda ɣef tabessekliḍt-im.
+Nnuda ɣef tabessekliḍt-iw.
+Nnuda ɣef tabessekliḍt-nwen.
+Nnuda ɣef tabessekliḍt-nkent.
+Nnuda ɣef tabessekliḍt-nsen.
+Nnuda ɣef tabessekliḍt-nsent.
+Nnuda ɣef tabessekliḍt-nneɣ.
+Nnuda ɣef tabessekliḍt-nteɣ.
+Nnuda ɣef upaspuṛ-is.
+Nnuda ɣef upaspuṛ-ik.
+Nnuda ɣef upaspuṛ-im.
+Nnuda ɣef upaspuṛ-iw.
+Nnuda ɣef upaspuṛ-nwen.
+Nnuda ɣef upaspuṛ-nkent.
+Nnuda ɣef upaspuṛ-nsen.
+Nnuda ɣef upaspuṛ-nsent.
+Nnuda ɣef upaspuṛ-nneɣ.
+Nnuda ɣef upaspuṛ-nteɣ.
+Nnuda ɣef tagrudt-is.
+Nnuda ɣef tagrudt-ik.
+Nnuda ɣef tagrudt-im.
+Nnuda ɣef tagrudt-iw.
+Nnuda ɣef tagrudt-nwen.
+Nnuda ɣef tagrudt-nkent.
+Nnuda ɣef tagrudt-nsen.
+Nnuda ɣef tagrudt-nsent.
+Nnuda ɣef tagrudt-nneɣ.
+Nnuda ɣef tagrudt-nteɣ.
+Nnuda ɣef ugrud-is.
+Nnuda ɣef ugrud-ik.
+Nnuda ɣef ugrud-im.
+Nnuda ɣef ugrud-iw.
+Nnuda ɣef ugrud-nwen.
+Nnuda ɣef ugrud-nkent.
+Nnuda ɣef ugrud-nsen.
+Nnuda ɣef ugrud-nsent.
+Nnuda ɣef ugrud-nneɣ.
+Nnuda ɣef ugrud-nteɣ.
+Nnuda ɣef igurdan-is.
+Nnuda ɣef igurdan-ik.
+Nnuda ɣef igurdan-im.
+Nnuda ɣef igurdan-iw.
+Nnuda ɣef igurdan-nwen.
+Nnuda ɣef igurdan-nkent.
+Nnuda ɣef igurdan-nsen.
+Nnuda ɣef igurdan-nsent.
+Nnuda ɣef igurdan-nneɣ.
+Nnuda ɣef igurdan-nteɣ.
+Uɣalet kan ɣer tuddar-nwen tqedcem akal-nwen!
+Uɣalemt kan ɣer tuddar-nkent tqedcemt akal-nkent!
+Uɣal kan ɣer taddart-ik tqedceḍ akal-ik!
+Uɣal kan ɣer taddart-im tqedceḍ akal-im!
+yewwet-it armi i yurar yiɣes-is!
+Yal yiwen amek i tent-ifeṣṣel!
+Yal yiwet amek i tettfeṣṣil!
+Imeslayen-is zeddigit.
+Ṣfant tektiwin-is.
+Ṣfant tektiwin-nsen.
+Ṣfant tektiwin-nsent.
+Weznen imeslayen-is mliḥ!
+Imeslayen-is d ilqayanen.
+Yettmeslay s tilawt.
+D taswiɛt i d-yennan akk!
+Yella Internet tura fiḥel asxuṛṛeḍ!
+Beṛka tikerkas yella Internet d anagi.
+Ḥbes askerkes yella Internet i usefqeḍ.
+Tɛeṛḍeḍ-t-id s axxam iwakken ad t-tregmeḍ?
+Tɛeṛḍeḍ-ten-id s axxam iwakken ad ten-tregmeḍ?
+Tɛeṛḍeḍ-tent-id s axxam iwakken ad tent-tregmeḍ?
+Tɛeṛḍem-t-id s axxam iwakken ad t-tregmem?
+Tɛeṛḍem-ten-id s axxam iwakken ad ten-tregmem?
+Tɛeṛḍem-tent-id s axxam iwakken ad tent-tregmem?
+Tɛeṛḍemt-t-id s axxam iwakken ad t-tregmemt?
+Tɛeṛḍemt-ten-id s axxam iwakken ad ten-tregmemt?
+Tɛeṛḍemt-tent-id s axxam iwakken ad tent-tregmemt?
+Ili-k akken tebɣiḍ, ad teqqimeḍ d aqbaylit!
+Ili-kem akken tebɣiḍ, ad teqqimeḍ d taqbaylit!
+Ili-ken akken tebɣam, ad teqqimem d iqbayliyen!
+Ili-kent akken tebɣamt, ad teqqimemt d tiqbayliyin!
+Ireffed yesrusu!
+Treffed tesrusu!
+Tura ad feṛḍeɣ tixxamin.
+Berzeɣ-d akk taxxamt.
+D acu i as-t-ram?
+Seṭṭel claɣem-ik.
+Yenneqlab fell-as.
+Tenneqlabeḍ am tata.
+Tajlibt n yekraren.
+Ineqeb-it wefṛux.
+Ṭṭef deg nnif-ik, mmeslay taqbaylit ay aqbayli.
+As-t-iniḍ d netta i d kullec.
+Awid ukan ad yexdem akken i d-yenna!
+A yiwen uxabit!
+Tesnulfam-iyi-d tikerkas.
+Mazalaɣ yiwen wass ad nqelleɛ sya!
+Yennum yekkat uzzal.
+Winna yekkat uzzal!
+Tǧeɛleḍ xeddmeɣ fell-ak?
+Tǧeɛleḍ xeddmeɣ fell-am?
+Tǧeɛleḍ xeddmeɣ fell-as?
+Tǧeɛleḍ xeddmeɣ fell-asen?
+Tǧeɛleḍ xeddmeɣ fell-asent?
+Tɣileḍ xeddmeɣ fell-ak?
+Tɣileḍ xeddmeɣ fell-am?
+Tɣileḍ xeddmeɣ fell-as?
+Tɣileḍ xeddmeɣ fell-asen?
+Tɣileḍ xeddmeɣ fell-asent?
+Tenwiḍ xeddmeɣ fell-ak?
+Tenwiḍ xeddmeɣ fell-am?
+Tenwiḍ xeddmeɣ fell-as?
+Tenwiḍ xeddmeɣ fell-asen?
+Tenwiḍ xeddmeɣ fell-asent?
+Tumneḍ xeddmeɣ fell-ak?
+Tumneḍ xeddmeɣ fell-am?
+Tumneḍ xeddmeɣ fell-as?
+Tumneḍ xeddmeɣ fell-asen?
+Tumneḍ xeddmeɣ fell-asent?
+Turgaḍ xeddmeɣ fell-ak?
+Turgaḍ xeddmeɣ fell-am?
+Turgaḍ xeddmeɣ fell-as?
+Turgaḍ xeddmeɣ fell-asen?
+Turgaḍ xeddmeɣ fell-asent?
+Ɛni xeddmeɣ fell-ak?
+Ɛni xeddmeɣ fell-am?
+Ɛni xeddmeɣ fell-as?
+Ɛni xeddmeɣ fell-asen?
+Ɛni xeddmeɣ fell-asent?
+Anwa i k-d-yennan xeddmeɣ fell-ak?
+Anwa i k-d-yennan xeddmeɣ fell-am?
+Anwa i k-d-yennan xeddmeɣ fell-as?
+Anwa i k-d-yennan xeddmeɣ fell-asen?
+Anwa i k-d-yennan xeddmeɣ fell-asent?
+Tǧeɛleḍ ttruɣ fell-ak?
+Tǧeɛleḍ ttruɣ fell-am?
+Tǧeɛleḍ ttruɣ fell-as?
+Tǧeɛleḍ ttruɣ fell-asen?
+Tǧeɛleḍ ttruɣ fell-asent?
+Tɣileḍ ttxemmimeɣ fell-ak?
+Tɣileḍ ttxemmimeɣ fell-am?
+Tɣileḍ ttxemmimeɣ fell-as?
+Tɣileḍ ttxemmimeɣ fell-asen?
+Tɣileḍ ttxemmimeɣ fell-asent?
+Tenwiḍ selbeɣ fell-ak?
+Tenwiḍ selbeɣ fell-am?
+Tenwiḍ selbeɣ fell-as?
+Tenwiḍ selbeɣ fell-asen?
+Tenwiḍ selbeɣ fell-asent?
+Tumneḍ mxelleɣ fell-ak?
+Tumneḍ mxelleɣ fell-am?
+Tumneḍ mxelleɣ fell-as?
+Tumneḍ mxelleɣ fell-asen?
+Tumneḍ mxelleɣ fell-asent?
+Turgaḍ hebleɣ fell-ak?
+Turgaḍ hebleɣ fell-am?
+Turgaḍ hebleɣ fell-as?
+Turgaḍ hebleɣ fell-asen?
+Turgaḍ hebleɣ fell-asent?
+Ɛni qeddceɣ fell-ak?
+Ɛni qeddceɣ fell-am?
+Ɛni qeddceɣ fell-as?
+Ɛni qeddceɣ fell-asen?
+Ɛni qeddceɣ fell-asent?
+Anwa i k-d-yennan ttxemmimeɣ fell-ak?
+Anwa i k-d-yennan ttxemmimeɣ fell-am?
+Anwa i k-d-yennan ttxemmimeɣ fell-as?
+Anwa i k-d-yennan ttxemmimeɣ fell-asen?
+Anwa i k-d-yennan ttxemmimeɣ fell-asent?
+Anwa i k-d-yennan ḍemɛeɣ deg-k?
+Anwa i k-d-yennan ḍemɛeɣ deg-m?
+Anwa i k-d-yennan ḍemɛeɣ deg-s?
+Anwa i k-d-yennan ḍemɛeɣ deg-sen?
+Anwa i k-d-yennan ḍemɛeɣ deg-sent?
+Anwa i k-d-yennan ččukkuɣ deg-k?
+Anwa i k-d-yennan ččukkuɣ deg-m?
+Anwa i k-d-yennan ččukkuɣ deg-s?
+Anwa i k-d-yennan ččukkuɣ deg-sen?
+Anwa i k-d-yennan ččukkuɣ deg-sent?
+Anwa i k-d-yennan ttasmeɣ deg-k?
+Anwa i k-d-yennan ttasmeɣ deg-m?
+Anwa i k-d-yennan ttasmeɣ deg-s?
+Anwa i k-d-yennan ttasmeɣ deg-sen?
+Anwa i k-d-yennan ttasmeɣ deg-sent?
+Anwa i k-d-yennan ttalaseɣ-k kra?
+Anwa i k-d-yennan ttalaseɣ-am kra?
+Anwa i k-d-yennan ttalaseɣ-as kra?
+Anwa i k-d-yennan ttalaseɣ-asen kra?
+Anwa i k-d-yennan ttalaseɣ-asent kra?
+Yessuter-iyi-d adlis-nni n Karl Marx.
+Yessuter-iyi-d adlis-nni n Oscar Wild.
+Ur sɛiɣ ara adlis-nni n Yusef Zirem.
+Ur sɛiɣ ara adlis-nni n Emerson.
+Teɣṛiḍ idlisen n Yunes Ɛedli?
+Teɣṛamt idlisen n Tawes Ɛemṛuc?
+Yeɣṛa idlisen n Kamal Buɛmaṛa?
+Teɣṛa idlisen n Salim Caker?
+Ɣṛant idlisen n Ǧeɛfeṛ Benmeṣbaḥ?
+Ɣṛan idlisen n Kamal N'at Zerrad?
+Teɣṛam idlisen n Mulud Ferɛun?
+Teɣṛiḍ isefra n Benmuḥemmed?
+Teɣṛamt isefra n Benḥanafi?
+Yeɣṛa isefra n Malek Ḥud?
+Teɣṛa isefra n Ḥmed Leḥlu?
+Ɣṛant isefra n Buɛlam Messusi?
+Ɣṛan isefra n Nuṛeddin At Sliman?
+Teɣṛam isefra n Muṛad Ṛaḥman?
+Teɣṛam isefra n Buɛlam Ṛabia?
+Teɣṛam isefra n Salim Benxlifa?
+Teɣṛiḍ ungalen n Linda Kudac?
+Teɣṛamt ungalen n Samir Tiɣẓeṛt?
+Yeɣṛa ungalen n Musa Salmi?
+Teɣṛa ungalen n Ɛmeṛ Mezdad?
+Ɣṛant ungalen n Aumer U Lamaṛa?
+Ɣṛan ungalen n Salem Zenia?
+Teɣṛam ungalen n Belɛid At Ɛli?
+Teɣṛiḍ amezgun n Ǧamal Benɛuf?
+Teɣṛamt amezgun n Muḥya?
+Yeɣṛa amezgun n Fellag?
+Teɣṛa amezgun n Kateb Yasin?
+Ɣṛant amezgun n Muḥemed Ḥilmi?
+Ɣṛan amezgun n Qasi Tizi Wezzu?
+Teɣṛam amezgun n Lmulud At Mɛammeṛ?
+Tnezzheḍ i usalu n Sliman Bubeker?
+Tnezzhem i usalu n Ɛebdeṛṛeḥman Bugermuḥ?
+Inezzeh i usalu n Yusef Gusem?
+Tnezzeh i usalu n Ɛezdin Meddur?
+Nezzhen i usalu n Belqasem Ḥeǧǧaǧ?
+Nezzhent i usalu n Crif Ɛeggun?
+Tettṛebbiḍ aqjun kečč ur tettuṛebbaḍ ara.
+Tettṛebbiḍ aqziḥ kečč ur tettuṛebbaḍ ara.
+Tettṛebbiḍ aydi kečč ur tettuṛebbaḍ ara.
+Tettṛebbim ajun kenwi ur tettuṛebbam ara.
+Tettṛebbim aqziḥ kenwi ur tettuṛebbam ara.
+Tettṛebbim aydi kenwi ur tettuṛebbam ara.
+Tettṛebbimt aqjun kennemti ur tettuṛebbamt ara.
+Tettṛebbimt aqziḥ kennemti ur tettuṛebbamt ara.
+Tettṛebbimt aydi kennemti ur tettuṛebbamt ara.
+Yettṛebbi aqjun netta ur yettuṛebba ara.
+Yettṛebbi aqziḥ netta ur yettuṛebba ara.
+Yettṛebbi aqjun netta ur yettuṛebba ara.
+Tettṛebbi aqjun nettat ur tettuṛebba ara.
+Tettṛebbi aqziḥ nettat ur tettuṛebba ara.
+Tettṛebbi aydi nettat ur tettuṛebba ara.
+Ttṛebbin aqjun nutni ur ttuṛebban ara.
+Ttṛebbin aqziḥ nutni ur ttuṛebban ara.
+Ttṛebbin aydi nutni ur ttuṛebban ara.
+Ttṛebbint aqjun nutenti ur ttuṛebbant ara.
+Ttṛebbint aqziḥ nutenti ur ttuṛebbant ara.
+Ttṛebbint aydi nutenti ur ttuṛebbant ara.
+ur ssaqṛaḥ ara aqeṛṛu-k akk, yewwas ad tfehmeḍ!
+ur ssaqṛaḥ ara aqeṛṛu-m akk, yewwas ad tfehmeḍ!
+ur ssaqṛaḥet ara iqeṛṛa-nwen akk, yewwas ad tfehmem!
+ur ssaqṛaḥemt ara iqeṛṛa-nkent akk, yewwas ad tfehmemt!
+Nnuda ɣef urbib-is.
+Nnuda ɣef urbib-ik.
+Nnuda ɣef urbib-im.
+Nnuda ɣef urbib-iw.
+Nnuda ɣef urbib-nwen.
+Nnuda ɣef urbib-nkent.
+Nnuda ɣef urbib-nsen.
+Nnuda ɣef urbib-nsent.
+Nnuda ɣef urbib-nneɣ.
+Nnuda ɣef urbib-nteɣ.
+Nnuda ɣef terbibt-ines.
+Nnuda ɣef terbibt-inek.
+Nnuda ɣef terbibt-inem.
+Nnuda ɣef terbibt-iw.
+Nnuda ɣef terbibt-nwen.
+Nnuda ɣef terbibt-nkent.
+Nnuda ɣef terbibt-nsen.
+Nnuda ɣef terbibt-nsent.
+Nnuda ɣef terbibt-nneɣ.
+Nnuda ɣef terbibt-nteɣ.
+Nnuda ɣef yerbiben-is.
+Nnuda ɣef yerbiben-ik.
+Nnuda ɣef yerbiben-im.
+Nnuda ɣef yerbiben.
+Nnuda ɣef yerbiben-nwen.
+Nnuda ɣef yerbiben-nkent.
+Nnuda ɣef yerbiben-nsen.
+Nnuda ɣef yerbiben-nsent.
+Nnuda ɣef yerbiben-nneɣ.
+Nnuda ɣef yerbiben-nteɣ.
+Nnuda ɣef terbibin-is.
+Nnuda ɣef terbibin-ik.
+Nnuda ɣef terbibin-im.
+Nnuda ɣef terbibin-iw.
+Nnuda ɣef terbibin-nwen.
+Nnuda ɣef terbibin-nkent.
+Nnuda ɣef terbibin-nsen.
+Nnuda ɣef terbibin-nsent.
+Nnuda ɣef terbibin-nneɣ.
+Nnuda ɣef terbibin-nteɣ.
+Tefkam-as tawaɣit i ccɣel-nni!
+Tefkam-as axeṣṣaṛ i leqdic-nni!
+Tteklen ɣef yitri-ines.
+Tteklen ɣef yitri-inek.
+Tteklen ɣef yitri-inem.
+Tteklen ɣef yitri-inu.
+Tteklen ɣef yitri-nwen.
+Tteklen ɣef yitri-nkent.
+Tteklen ɣef yitri-nsen.
+Tteklen ɣef yitri-nsent.
+Tteklen ɣef yitri-nneɣ.
+Tteklenɣef yitri-nteɣ.
+Tteklen ɣef tmeslayt-is taqbaylit.
+Tteklen ɣef tmeslayt-ik taqbaylit.
+Tteklen ɣef tmeslayt-im taqbaylit.
+Tteklen ɣef tmeslayt-iw taqbaylit.
+Tteklen ɣef tmeslayt-nwen taqbaylit.
+Tteklen ɣef tmeslayt-nkent taqbaylit.
+Tteklen ɣef tmeslayt-nsen taqbaylit.
+Tteklen ɣef tmeslayt-nsent taqbaylit.
+Tteklen ɣef tmeslayt-nneɣ taqbaylit.
+Tteklen ɣef tmeslayt-nteɣ taqbaylit.
+Tteklent ɣef ccṭaṛa-ines.
+Tteklent ɣef ccṭaṛa-inek.
+Tteklent ɣef ccṭaṛa-inem.
+Tteklent ɣef ccṭaṛa-inu.
+Tteklent ɣef ccṭaṛa-nwen.
+Tteklent ɣef ccṭaṛa-nkent.
+Tteklent ɣef ccṭaṛa-nsen.
+Tteklent ɣef ccṭaṛa-nsent.
+Tteklent ɣef ccṭaṛa-nneɣ.
+Tteklent ɣef ccṭaṛa-nteɣ.
+Tteklen ɣef leqdic-is ɣef taqbaylit.
+Tteklen ɣef leqdic-ik ɣef taqbaylit.
+Tteklen ɣef leqdic-im ɣef taqbaylit.
+Tteklen ɣef leqdic-iw ɣef taqbaylit.
+Tteklen ɣef leqdic-nwen ɣef taqbaylit.
+Tteklen ɣef leqdic-nkent ɣef taqbaylit.
+Tteklen ɣef leqdic-nsen ɣef taqbaylit.
+Tteklen ɣef leqdic-nsent ɣef taqbaylit.
+Tteklen ɣef leqdic-nneɣ ɣef taqbaylit.
+Tteklen ɣef leqdic-nteɣ ɣef taqbaylit.
